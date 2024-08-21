@@ -25,26 +25,30 @@ function AboutCard() {
               Minh City.
             </span>
             <br />
+            I have completed Integrated MSc (IMSc) in Maths
+            and Computing at BIT Mesra.
             <br />
-            Some other activities that I love to do!
+            <br />
+            Apart from coding, some other activities that I
+            love to do!
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing and Watching Football
+              <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Detective Books
+              <ImPointRight /> Travelling
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Nothing in the way of creativity!"{" "}
+            "Strive to build things that make a difference!"{" "}
           </p>
           <footer className="blockquote-footer">
-            Zero
+            Soumyajit
           </footer>
         </blockquote>
       </Card.Body>

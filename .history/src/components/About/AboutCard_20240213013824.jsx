@@ -8,44 +8,33 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am{" "}
-            <span className="purple">
-              Nguyen Quoc Khang{" "}
-            </span>
-            from{" "}
-            <span className="purple">
-              {" "}
-              Khanh Hoa, Viet Nam.
-            </span>
+            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
+            from <span className="purple"> Bhubaneswar, India.</span>
             <br />
-            I'm a student majoring in{" "}
-            <span className="purple">
-              {" "}
-              E-commerce at Industrial University of Ho Chi
-              Minh City.
-            </span>
+            I am currently employed as a software developer at Juspay.
+            <br />
+            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
+            Mesra.
             <br />
             <br />
-            Some other activities that I love to do!
+            Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing and Watching Football
+              <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading Detective Books
+              <ImPointRight /> Travelling
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Nothing in the way of creativity!"{" "}
+            "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">
-            Zero
-          </footer>
+          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>

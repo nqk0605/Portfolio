@@ -37,22 +37,6 @@ function Home2() {
                   JavaScript, Java, React...{" "}
                 </b>
               </i>
-              and other tools like
-              <i>
-                <b className="purple">
-                  {" "}
-                  Adobe PhotoShop, Microsoft Office...{" "}
-                </b>
-              </i>
-              <br />
-              <br />I also have knowledge about
-              <i>
-                <b className="purple">
-                  {" "}
-                  SEO, Content Marketing, Digital
-                  Marketing...{" "}
-                </b>
-              </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -61,14 +45,26 @@ function Home2() {
                   Web Technologies and Products{" "}
                 </b>{" "}
                 and also in areas related to{" "}
-                <b className="purple">
-                  Marketing and E-commerce.
-                </b>
+                <b className="purple">Blockchain.</b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for
-              developing products.
+              developing products with{" "}
+              <b className="purple">Node.js</b> and
+              <i>
+                <b className="purple">
+                  {" "}
+                  Modern Javascript Library and Frameworks
+                </b>
+              </i>
+              &nbsp; like
+              <i>
+                <b className="purple">
+                  {" "}
+                  React.js and Next.js
+                </b>
+              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
