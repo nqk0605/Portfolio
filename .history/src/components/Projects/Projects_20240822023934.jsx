@@ -27,7 +27,7 @@ function Projects() {
               imgPath={ecShop}
               isBlog={false}
               title="ECSHOP"
-              description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/nqk0605/ECShop"
               demoLink="https://menwear-shop.vercel.app/"
             />
@@ -38,7 +38,7 @@ function Projects() {
               imgPath={ecShop}
               isBlog={false}
               title="ECSHOP"
-              description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/nqk0605/ECShop"
               demoLink="https://menwear-shop.vercel.app/"
             />
@@ -49,7 +49,7 @@ function Projects() {
               imgPath={ecShop}
               isBlog={false}
               title="ECSHOP"
-              description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/nqk0605/ECShop"
               demoLink="https://menwear-shop.vercel.app/"
             />
@@ -60,7 +60,7 @@ function Projects() {
               imgPath={ecShop}
               isBlog={false}
               title="ECSHOP"
-              description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/nqk0605/ECShop"
               demoLink="https://menwear-shop.vercel.app/"
             />
@@ -71,7 +71,7 @@ function Projects() {
               imgPath={ecShop}
               isBlog={false}
               title="ECSHOP"
-              description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/nqk0605/ECShop"
               demoLink="https://menwear-shop.vercel.app/"
             />
@@ -82,7 +82,7 @@ function Projects() {
               imgPath={ecShop}
               isBlog={false}
               title="ECSHOP"
-              description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
+              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/nqk0605/ECShop"
               demoLink="https://menwear-shop.vercel.app/"
             />

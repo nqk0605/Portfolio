@@ -4,6 +4,7 @@ import {
   DiHtml5,
   DiJavascript1,
   DiReact,
+  DiMongodb,
   DiPython,
   DiGit,
   DiJava,
@@ -11,9 +12,14 @@ import {
 import {
   SiCss3,
   SiBootstrap,
+  SiRedis,
   SiFirebase,
+  SiNextdotjs,
+  SiSolidity,
+  SiPostgresql,
   SiMysql,
 } from "react-icons/si";
+import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
