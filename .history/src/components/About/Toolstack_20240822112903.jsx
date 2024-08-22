@@ -8,7 +8,6 @@ import {
   SiWindows11,
   SiPycharm,
   SiIntellijidea,
-  SiFigma,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -38,10 +37,7 @@ function Toolstack() {
         <SiPycharm />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiIntellijidea />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFigma />
+        <SSiIntellijidea />
       </Col>
     </Row>
   );

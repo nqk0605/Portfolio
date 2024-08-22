@@ -8,8 +8,8 @@ import {
   SiWindows11,
   SiPycharm,
   SiIntellijidea,
-  SiFigma,
 } from "react-icons/si";
+import { BiLogoFigma } from "react-icons/bi";
 
 function Toolstack() {
   return (
@@ -41,7 +41,7 @@ function Toolstack() {
         <SiIntellijidea />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFigma />
+        <BiLogoFigma />
       </Col>
     </Row>
   );
