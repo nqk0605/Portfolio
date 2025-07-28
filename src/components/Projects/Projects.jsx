@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import ecShop from "../../Assets/Projects/ecshop.png";
 import sliderbook from "../../Assets/Projects/sliderbook.png";
+import veagroup from "../../Assets/Projects/veagroup.png";
 
 function Projects() {
   return (
@@ -41,6 +42,17 @@ function Projects() {
               description="SliderBook is an online platform specializing in digital book sharing, offering a seamless and engaging reading experience. With the aim of making book access more convenient, SliderBook not only provides a diverse collection of books but also focuses on creating an interactive and user-friendly interface for readers."
               ghLink="https://github.com/nqk0605/Book-Slider"
               demoLink="https://bookslider.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={veagroup}
+              isBlog={false}
+              title="Veagroup"
+              description="VEA Group - A Multi-Industry Ecosystem Operating Locally and Globally, Positioned as a Strategic Partner for Businesses on Every Journey of Growth and Sustainability.
+With the vision “Optimize Resources - Maximize Profits,” VEA Group offers Partners a wide range of options to collaborate, grow together, and achieve a ‘win-win’ outcome."
+              ghLink="https://github.com/nqk0605/veagroup"
+              demoLink="https://veagroup.global/"
             />
           </Col>
         </Row>
