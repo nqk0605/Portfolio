@@ -27,7 +27,6 @@ function Home2() {
             <p className="home-about-body">
               I fell in love with e-commerce, programming
               and I have at least learnt something, I think…
-              🤷‍♂️
               <br />
               <br />I have experience in programming
               languages ​​like
@@ -122,7 +121,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/nqk06_5/"
+                  href="https://www.instagram.com/nq.khangg/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
