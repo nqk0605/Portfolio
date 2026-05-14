@@ -26,7 +26,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with e-commerce, programming
-              and I have at least learnt something, I think…
+              and I have at least learn something, I think…
               <br />
               <br />I have experience in programming
               languages ​​like

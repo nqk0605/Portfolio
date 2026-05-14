@@ -31,7 +31,7 @@ function Projects() {
               title="ECSHOP"
               description="MenWear is an online store specializing in men's fashion, offering trendy and modern styles with high-quality products. With the aim of providing customers with the best shopping experience, MenWear not only offers contemporary and stylish men's fashion items but also focuses on creating a user-friendly and innovative website interface."
               ghLink="https://github.com/nqk0605/ECShop"
-              demoLink="https://menwear-shop.vercel.app/"
+              demoLink="https://menwearshop.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -49,8 +49,7 @@ function Projects() {
               imgPath={veagroup}
               isBlog={false}
               title="Veagroup"
-              description="VEA Group - A Multi-Industry Ecosystem Operating Locally and Globally, Positioned as a Strategic Partner for Businesses on Every Journey of Growth and Sustainability.
-With the vision “Optimize Resources - Maximize Profits,” VEA Group offers Partners a wide range of options to collaborate, grow together, and achieve a ‘win-win’ outcome."
+              description="VEA Group - A Multi-Industry Ecosystem Operating Locally and Globally, Positioned as a Strategic Partner for Businesses on Every Journey of Growth and Sustainability.With the vision “Optimize Resources - Maximize Profits,” VEA Group offers Partners a wide range of options to collaborate, grow together, and achieve a ‘win-win’ outcome."
               ghLink="https://github.com/nqk0605/veagroup"
               demoLink="https://veagroup.global/"
             />

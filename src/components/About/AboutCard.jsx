@@ -18,11 +18,11 @@ function AboutCard() {
               Khanh Hoa, Viet Nam.
             </span>
             <br />
-            I'm a student majoring in{" "}
+            Currently, I have experience in{" "}
             <span className="purple">
               {" "}
-              E-commerce at Industrial University of Ho Chi
-              Minh City.
+              various positions related to website
+              development, marketing, and video editing.
             </span>
             <br />
             <br />
